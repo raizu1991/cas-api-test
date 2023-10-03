@@ -1,0 +1,20 @@
+{
+    "tasks": {
+        "bah"   : "text",
+        "caw"  : "text",
+        "jaw"   : "text",
+        "task_name"   : "text"
+    },
+
+    "pengesahs": {
+        "task_id" : "integer",
+        "user_id": "integer"
+       
+    },
+
+    "tempps": {
+        "ca_type"       : "text",
+        "ca_id": "integer",
+        "task_collection"   : "text"
+    }
+}
